@@ -18,10 +18,9 @@ app.get('/', function(req, res){
 
 app.get('/:page', function(req, res){
     var title = "";
-    for(var i = 0; i < config.titles; i++){
+    for(var i = 0; i < config.titles.length; i++){
         if(config.titles[i][0] === req.params.page){
             title = config.titles[i][1];
-            
         }
     }
     res.render(req.params.page, {title: title,
