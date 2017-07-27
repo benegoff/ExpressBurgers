@@ -5,5 +5,12 @@
         ["drinks", "Drinks"],
         ["location", "Visit Us"],
         ["sides", "Sides"]
+    ],
+    "burgers": [
+        "Buffalo Bill",
+        "Heavy Harry",
+        "Orphan Annie",
+        "Sassy Susan",
+        "Birds & the Bees"
     ]
 }
