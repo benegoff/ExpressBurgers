@@ -3,5 +3,5 @@ extends layout
 block content
   h2=title
   ul(id='drinks', class='item')
-    each drink in drinks
+    each drink in config.drinks
       li= drink

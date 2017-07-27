@@ -3,5 +3,5 @@ extends layout
 block content
   h2=title
   ul(id='sides', class='item')
-    each side in sides
+    each side in config.sides
       li= side
