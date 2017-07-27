@@ -7,9 +7,9 @@ html
       h1 Hella Increda Sexy Pug Burger!
       nav
         ul  
-          each item in config.menu
+          each item in config.titles
             li
-              a(href=item[1]) #{item[0]}
+              a(href=item[0]) #{item[1]}
     div(id='content')
       block content
     
