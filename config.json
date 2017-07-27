@@ -1,0 +1,9 @@
+{
+    "titles": [
+        ["index", "Home"],
+        ["burger", "Burgers"],
+        ["drinks", "Drinks"],
+        ["location", "Visit Us"],
+        ["sides", "Sides"]
+    ]
+}
