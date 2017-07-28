@@ -2,6 +2,6 @@ extends layout
 
 block content
   h2=title
-  ul(id='burgers', class='item')
+  div(id='burgers', class='item')
     each burger in config.burgers
-      li= burger
+      div= burger
