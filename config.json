@@ -12,5 +12,19 @@
         "Orphan Annie",
         "Sassy Susan",
         "Birds & the Bees"
+    ],
+    "drinks": [
+        "Shirley Temple",
+        "Sweet Tea",
+        "Harley Quinn",
+        "Old Fashioned",
+        "Watermelon Capri-Sun"
+    ],
+    "sides": [
+        "Onion Rings",
+        "French Fries",
+        "Tater Tots",
+        "Fried Pickles",
+        "Jalapeño Poppers"
     ]
 }
