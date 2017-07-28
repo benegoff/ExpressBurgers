@@ -4,7 +4,7 @@ block content
   h2=title
   div(id='burgers', class='item')
     each burger, index in config.burgers
-      div(id=burger[0])
-        div(id=burger[0]+"title")= burger[0]
-        div(id=burger[1]+"description")= burger[1]
-        img(id=burger[2]+'picture',src=burger[2])
+      div(class="card")
+        div(class="title")= burger[0]
+        div(class="description")= burger[1]
+        img(class='picture',src=burger[2])

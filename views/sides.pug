@@ -4,7 +4,7 @@ block content
   h2=title
   div(id='sides', class='item')
     each side, index in config.sides
-      div(id=side[0])
-        div(id=side[0]+"title")= side[0]
-        div(id=side[1]+"description")= side[1]
-        img(id=side[2]+'picture',src=side[2])
+      div(class="card")
+        div(class="title")= side[0]
+        div(class="description")= side[1]
+        img(class='picture',src=side[2])
