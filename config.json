@@ -12,5 +12,19 @@
         ["Orphan Annie","You could do the ALS water bicket challenge as many times as you want but you wont cool off spicy"],
         ["Sassy Susan","A burger with a little bit of twang to it"],
         ["Birds & the Bees","A chicken burger with smooth honey will slide into anything"]
+    ],
+    "drinks": [
+        "Shirley Temple",
+        "Sweet Tea",
+        "Harley Quinn",
+        "Old Fashioned",
+        "Watermelon Capri-Sun"
+    ],
+    "sides": [
+        "Onion Rings",
+        "French Fries",
+        "Tater Tots",
+        "Fried Pickles",
+        "Jalapeño Poppers"
     ]
 }
