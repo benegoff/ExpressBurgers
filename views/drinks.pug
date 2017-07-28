@@ -2,6 +2,9 @@ extends layout
 
 block content
   h2=title
-  ul(id='drinks', class='item')
-    each drink in config.drinks
-      li= drink
+  div(id='drinks', class='item')
+    each drink, index in config.drinks
+      div(id=drink[0])
+        div(id=drink[0]+"title")= drink[0]
+        div(id=drink[1]+"description")= drink[1]
+        img(id=drink[2]+'picture',src=drink[2])

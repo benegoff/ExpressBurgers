@@ -7,24 +7,24 @@
         ["sides", "Sides"]
     ],
     "burgers": [
-        ["Buffalo Bill","Hot and spicy chicken burger"],
-        ["Heavy Harry","Spicy Meaty hunk. If you want vegetables go else were"],
-        ["Orphan Annie","You could do the ALS water bicket challenge as many times as you want but you wont cool off spicy"],
-        ["Sassy Susan","A burger with a little bit of twang to it"],
-        ["Birds & the Bees","A chicken burger with smooth honey will slide into anything"]
+        ["Buffalo Bill","Hot and spicy chicken burger",""],
+        ["Heavy Harry","Spicy Meaty hunk. If you want vegetables go else were",""],
+        ["Orphan Annie","You could do the ALS water bicket challenge as many times as you want but you wont cool off spicy",""],
+        ["Sassy Susan","A burger with a little bit of twang to it",""],
+        ["Birds & the Bees","A chicken burger with smooth honey will slide into anything",""]
     ],
     "drinks": [
-        "Shirley Temple",
-        "Sweet Tea",
-        "Harley Quinn",
-        "Old Fashioned",
-        "Watermelon Capri-Sun"
+        ["Shirley Temple","",""],
+        ["Sweet Tea","",""],
+        ["Harley Quinn","",""],
+        ["Old Fashioned","",""],
+        ["Watermelon Capri-Sun","",""]
     ],
     "sides": [
-        "Onion Rings",
-        "French Fries",
-        "Tater Tots",
-        "Fried Pickles",
-        "Jalapeño Poppers"
+        ["Onion Rings","",""],
+        ["French Fries","",""],
+        ["Tater Tots","",""],
+        ["Fried Pickles","",""],
+        ["Jalapeño Poppers","",""]
     ]
 }
