@@ -4,4 +4,6 @@ block content
   h2=title
   div(id='burgers', class='item')
     each burger in config.burgers
-      div= burger
+      div(id="burger")= burger[0]
+      div(id="description")= burger[1]
+      img(id='burger-picture',src=burger[2])
