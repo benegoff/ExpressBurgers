@@ -7,24 +7,24 @@
         ["sides", "Sides"]
     ],
     "burgers": [
-        ["Buffalo Bill","Hot and spicy chicken burger.",""],
-        ["Heavy Harry","Spicy Meaty hunk. If you want vegetables go else were.",""],
-        ["Orphan Annie","Prepare your tongue, 'cause it's gonna be HOT!",""],
-        ["Sassy Susan","A small slider with a little twang.",""],
-        ["Birds & the Bees","A chicken burger glazed with smooth honey.",""]
+        ["Buffalo Bill","Hot and spicy chicken burger.","/images/food/bill.jpg"],
+        ["Heavy Harry","Spicy Meaty hunk. If you want vegetables go else were.","/images/food/harry.jpg"],
+        ["Orphan Annie","Prepare your tongue, 'cause it's gonna be HOT!","/images/food/annie.jpg"],
+        ["Sassy Susan","A small slider with a little twang.","/images/food/susan.jpg"],
+        ["Birds & the Bees","A chicken burger glazed with smooth honey.","/images/food/chicken.jpg"]
     ],
     "drinks": [
-        ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry to top it all off!",""],
-        ["Sweet Tea","Tea that is sweet. A southern classic.",""],
-        ["Harley Quinn","A strawberry/blue raspberry swirled slush perfect for the beach.",""],
-        ["Old Fashioned","Sugar and bitters, mixed with high-quality whiskey.",""],
-        ["Watermelon Capri-Sun","Something for the kiddos, or just for nostalgia.",""]
+        ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry to top it all off!","/images/drink/shirley.jpg"],
+        ["Sweet Tea","Tea that is sweet. A southern classic.","/images/drink/tea.jpg"],
+        ["Harley Quinn","A strawberry/blue raspberry swirled slush perfect for the beach.","/images/drink/quinn.jpg"],
+        ["Old Fashioned","Sugar and bitters, mixed with high-quality whiskey.","/images/drink/oldfashioned.jpg"],
+        ["Watermelon Capri-Sun","Something for the kiddos, or just for nostalgia.","/images/drink/caprisun.jpg"]
     ],
     "sides": [
-        ["Onion Rings","Beer-battered and crispy onion rings, with a satisfying crunch.",""],
-        ["Steak Fries","Thick, seasoned fries delicious with any burger.",""],
-        ["Tater Tots","A fried potato snack easy to enjoy with friends.",""],
-        ["Fried Pickles","Scrumptious pickles covered in batter and cooked to crispy perfection.",""],
-        ["Jalapeño Poppers","Gutted jalapeños filled with cream cheese and cheddar, fried.",""]
+        ["Onion Rings","Beer-battered and crispy onion rings, with a satisfying crunch.","/images/food/onionrings.jpg"],
+        ["French Fries","Thin, seasoned fries delicious with any burger.","/images/food/fries.jpg"],
+        ["Tater Tots","A fried potato snack easy to enjoy with friends.","/images/food/tatertots.jpg"],
+        ["Fried Pickles","Scrumptious pickles covered in batter and cooked to crispy perfection.","/images/food/pickles.jpg"],
+        ["Jalapeño Poppers","Gutted jalapeños filled with cream cheese and cheddar, fried.","/images/food/poppers.jpg"]
     ]
 }
