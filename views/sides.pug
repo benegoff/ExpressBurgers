@@ -2,6 +2,9 @@ extends layout
 
 block content
   h2=title
-  ul(id='sides', class='item')
-    each side in config.sides
-      li= side
+  div(id='sides', class='item')
+    each side, index in config.sides
+      div(class="card")
+        div(class="title")= side[0]
+        div(class="description")= side[1]
+        img(class='picture',src=side[2])

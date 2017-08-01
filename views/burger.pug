@@ -2,6 +2,9 @@ extends layout
 
 block content
   h2=title
-  ul(id='burgers', class='item')
-    each burger in config.burgers
-      li= burger
+  div(id='burgers', class='item')
+    each burger, index in config.burgers
+      div(class="card")
+        div(class="title")= burger[0]
+        div(class="description")= burger[1]
+        img(class='picture',src=burger[2])
