@@ -7,11 +7,11 @@
         ["sides", "Sides"]
     ],
     "burgers": [
-        ["Buffalo Bill","Hot and spicy chicken burger.","/images/food/bill.jpg"],
-        ["Heavy Harry","Spicy Meaty hunk. If you want vegetables go else were.","/images/food/harry.jpg"],
-        ["Orphan Annie","Prepare your tongue, 'cause it's gonna be HOT!","/images/food/annie.jpg"],
-        ["Sassy Susan","A small slider with a little twang.","/images/food/susan.jpg"],
-        ["Birds & the Bees","A chicken burger glazed with smooth honey.","/images/food/chicken.jpg"]
+        ["Buffalo Bill","Hot and spicy chicken burger, smothered in buffalo sauce.","/images/food/bill.jpg"],
+        ["Heavy Harry","Spicy Meaty 1/2-pund hunk of meat on a sesame seed bun. If you want vegetables, go elsewhere.","/images/food/harry.jpg"],
+        ["Orphan Annie","Prepare your tongue, 'cause it's gonna be HOT! Perfect for traditional burger lovers who want a little kick.","/images/food/annie.jpg"],
+        ["Sassy Susan","A small slider with a little twang. Our lightest food option, but still with plenty of meat.","/images/food/susan.jpg"],
+        ["Birds & the Bees","A chicken sandwich glazed with smooth honey. Don't worry; you wont have to explain where it comes from to your kids.","/images/food/chicken.jpg"]
     ],
     "drinks": [
         ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry to top it all off!","/images/drink/shirley.jpg"],
