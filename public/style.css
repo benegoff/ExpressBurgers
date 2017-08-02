@@ -1,4 +1,56 @@
+@font-face{
+    font-family: "Bungee";
+    src:url("fonts/Bungee-Shade.woff");
+}
+
+body{
+    margin:0;
+}
+
 #map {
     height:400px;
     width:100%;
+}
+
+header{
+    background-image: url(images/splash.jpg);
+    background-position: center;
+    text-align: center;
+    padding-top:15px;
+}
+
+.title{
+    margin:0;
+    color:white;
+}
+
+.logo{
+    font-family: "Bungee";
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 15px;
+    display:inline-block;
+    background-color: rgba(33,33,33, .7);
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.26);
+}
+
+nav{
+    text-align: center;
+    background-color:#333;
+    padding: 10px;
+    box-shadow: 0px 4px 8px 1px rgba(0,0,0,0.45);
+}
+
+.navButton{
+    padding:8px;
+    margin: 10px;
+    background-color: #555;
+    text-decoration: none;
+    color:white;
+    width: 100px;
+    display: inline-block;
+    border-radius: 1px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.26);
 }
