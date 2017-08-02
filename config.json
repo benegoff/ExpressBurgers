@@ -17,7 +17,7 @@
         ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry to top it all off!","/images/drink/shirley.jpg"],
         ["Sweet Tea","Tea that is sweet. A southern classic.","/images/drink/tea.jpg"],
         ["Harley Quinn","A strawberry/blue raspberry swirled slush perfect for the beach.","/images/drink/quinn.jpg"],
-        ["Old Fashioned","Sugar and bitters, mixed with high-quality whiskey.","/images/drink/oldfashioned.jpg"],
+        ["Old Fashioned","Sugar and bitters, mixed with high-quality whiskey.*","/images/drink/oldfashioned.jpg"],
         ["Watermelon Capri-Sun","Something for the kiddos, or just for nostalgia.","/images/drink/caprisun.jpg"]
     ],
     "sides": [
