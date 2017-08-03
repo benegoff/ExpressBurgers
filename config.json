@@ -3,8 +3,8 @@
         ["index", "Home"],
         ["burger", "Burgers"],
         ["drinks", "Drinks"],
-        ["location", "Visit Us"],
-        ["sides", "Sides"]
+        ["sides", "Sides"],
+        ["location", "Visit Us"]
     ],
     "burgers": [
         ["Buffalo Bill","Hot and spicy chicken burger, smothered in buffalo sauce.","/images/food/bill.jpg"],
