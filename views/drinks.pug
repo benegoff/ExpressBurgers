@@ -1,12 +1,13 @@
 extends layout
 
 block content
-  h2=title
-  p Our drinks designed to make you feel relaxed and right at home at the beach. They all mix well with the feel of the sea breeze, giving you that refreshing taste of freedom and release from busy normal life.
+  div(class="intro")
+    h2=title
+    p Our drinks designed to make you feel relaxed and right at home at the beach. They all mix well with the feel of the sea breeze, giving you that refreshing taste of freedom and release from busy normal life.
   div(id='drinks', class='item')
     each drink, index in config.drinks
       div(class="card")
         div(class="title")= drink[0]
-        div(class="description")= drink[1]
         img(class='picture',src=drink[2])
+        div(class="description")= drink[1]
   h6 *Must be 21 years or older to purchase. Prepare to show a valid ID.

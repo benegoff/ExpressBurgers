@@ -1,11 +1,12 @@
 extends layout
 
 block content
-  h2=title
-  p We serve burgers almost exclusively, except for our chicken sandwich. All our burgers are 100% angus beef, and are prepared fresh when you order, not beforehand and then heated. We only use natural, fresh ingredients too, so you can be sure to have that wonderful flavor in every bite.
+  div(class="intro")
+    h2=title
+    p We serve burgers almost exclusively, except for our chicken sandwich. All our burgers are 100% angus beef, and are prepared fresh when you order, not beforehand and then heated. We only use natural, fresh ingredients too, so you can be sure to have that wonderful flavor in every bite.
   div(id='burgers', class='item')
     each burger, index in config.burgers
       div(class="card")
         div(class="title")= burger[0]
+        img(class='picture',src=burger[2])        
         div(class="description")= burger[1]
-        img(class='picture',src=burger[2])
