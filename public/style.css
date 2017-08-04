@@ -9,7 +9,8 @@ body {
 
 #map {
   height: 400px;
-  width: 100%;
+  margin: 25px;
+  background-color: rgba(33, 33, 33, .7);
 }
 
 header {
@@ -53,15 +54,16 @@ nav {
   color: white;
   width: 100px;
   display: inline-block;
-  border-radius: 1px;
+  border-radius: 2px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.26);
+  transition: font-size .5s;
 }
 
-.greetings {
-
+.navButton:hover {
+  font-size: 1.2em;
 }
 
-#content{
+#content {
   font-family: "Roboto", sans-serif;
   background-image: url(images/exterior.jpg);
   background-position: center;
@@ -75,44 +77,78 @@ nav {
   margin: 0;
   text-align: center;
   vertical-align: middle;
-  padding: 15%;
+  padding: 75px;
   margin: 15%;
   font-size: 1.3em;
   background-color: rgba(33, 33, 33, .7);
   border-radius: 2px;
-  transition: font-size 2s;
 }
 
-.greetingsText:hover{
-  font-size: 1.4em;
-}
-
-.item{
+.item {
   text-align: center;
 }
 
-.card{
-  margin:15px;
+.card {
+  margin: 15px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.26);
-  height:300px;
-  width:300px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   vertical-align: middle;
   border-radius: 3px;
   background-color: #555;
-  color:white;
+  color: white;
   font-family: "Roboto", sans-serif;
   padding: 25px;
   display: inline-block;
 }
-  
-.intro{
+
+.card:hover {
+  animation-name: moveUp;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;
+  animation-duration: 1s;
+}
+
+@keyframes moveUp {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(0, -25px);
+  }
+  100% {
+    transform: translate(0, 0px);
+  }
+}
+
+img{
+  width:200px;
+}
+
+.title {
+  font-size: 1.4em;
+  padding: 5px;
+  margin: 5px;
+}
+
+.picture {
+  margin: 5px;
+  background-color: rgba(33, 33, 33, .7);
+  padding: 10px;
+
+}
+
+.description {
+  margin: 10px;
+  padding:10px;
+
+}
+
+.intro {
   background-color: rgba(33, 33, 33, .7);
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.26);
   border-radius: 3px;
   padding: 25px;
   margin: 25px;
 }
-
-
-
