@@ -11,20 +11,23 @@
         ["Heavy Harry","Spicy Meaty 1/2-pund hunk of meat on a sesame seed bun. If you want vegetables, go elsewhere.","/images/food/harry.jpg"],
         ["Orphan Annie","Prepare your tongue, 'cause it's gonna be HOT! Perfect for traditional burger lovers who want a little kick.","/images/food/annie.jpg"],
         ["Sassy Susan","A small slider with a little twang. Our lightest food option, but still with plenty of meat.","/images/food/susan.jpg"],
-        ["Birds & the Bees","A chicken sandwich glazed with smooth honey. Don't worry; you wont have to explain where it comes from to your kids.","/images/food/chicken.jpg"]
+        ["Birds & the Bees","A chicken sandwich glazed with smooth honey. Don't worry; you wont have to explain where it comes from to your kids.","/images/food/chicken.jpg"],
+        ["Swiss Army Knife","A swiss-cheese burger with so many mushrooms they take up more space than the burger! Perfect for those fungi lovers out there.", "/images/food/mushroom.jpg"]
     ],
     "drinks": [
-        ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry to top it all off!","/images/drink/shirley.jpg"],
+        ["Shirley Temple","Grenadine syrup, ginger ale, and a cherry flavor to top it all off!","/images/drink/shirley.jpg"],
         ["Sweet Tea","Tea that is sweet. A southern classic.","/images/drink/tea.jpg"],
         ["Harley Quinn","A strawberry/blue raspberry swirled slush perfect for the beach.","/images/drink/quinn.jpg"],
         ["Old Fashioned","Sugar and bitters, mixed with high-quality whiskey.*","/images/drink/oldfashioned.jpg"],
-        ["Watermelon Capri-Sun","Something for the kiddos, or just for nostalgia.","/images/drink/caprisun.jpg"]
+        ["Watermelon Capri-Sun","Something for the kiddos, or just for nostalgia.","/images/drink/caprisun.jpg"],
+        ["Pepsi Products","Any Pepsi Products","/images/drink/pepsi.jpg"]
     ],
     "sides": [
         ["Onion Rings","Beer-battered and crispy onion rings, with a satisfying crunch.","/images/food/onionrings.jpg"],
         ["French Fries","Thin, seasoned fries delicious with any burger.","/images/food/fries.jpg"],
         ["Tater Tots","A fried potato snack easy to enjoy with friends.","/images/food/tatertots.jpg"],
         ["Fried Pickles","Scrumptious pickles covered in batter and cooked to crispy perfection.","/images/food/pickles.jpg"],
-        ["Jalapeño Poppers","Gutted jalapeños filled with cream cheese and cheddar, fried.","/images/food/poppers.jpg"]
+        ["Jalapeño Poppers","Gutted jalapeños filled with cream cheese and cheddar, fried.","/images/food/poppers.jpg"],
+        ["Mozzarella Sticks","Crispy, fried, and battered bread filled with gooey, melty mozzarella. Served with marinara sauce.","/images/food/mozzarella.jpg"]
     ]
 }
